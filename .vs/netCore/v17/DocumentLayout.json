@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\netCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F6EB35-A0B9-4E5F-96B5-25D7D251BBAC}|unitest\\unitest.csproj|c:\\users\\user\\desktop\\netcore\\unitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F6EB35-A0B9-4E5F-96B5-25D7D251BBAC}|unitest\\unitest.csproj|solutionrelative:unitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|c:\\users\\user\\desktop\\netcore\\netcore\\treated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|solutionrelative:netcore\\treated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|c:\\users\\user\\desktop\\netcore\\netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|solutionrelative:netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|c:\\users\\user\\desktop\\netcore\\netcore\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|solutionrelative:netcore\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|c:\\users\\user\\desktop\\netcore\\netcore\\controllers\\treatedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|solutionrelative:netcore\\controllers\\treatedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|c:\\users\\user\\desktop\\netcore\\netcore\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|solutionrelative:netcore\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|c:\\users\\user\\desktop\\netcore\\netcore\\controllers\\apointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|solutionrelative:netcore\\controllers\\apointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|c:\\users\\user\\desktop\\netcore\\netcore\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|solutionrelative:netcore\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F6EB35-A0B9-4E5F-96B5-25D7D251BBAC}|unitest\\unitest.csproj|c:\\users\\user\\desktop\\netcore\\unitest\\unitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2F6EB35-A0B9-4E5F-96B5-25D7D251BBAC}|unitest\\unitest.csproj|solutionrelative:unitest\\unitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F6EB35-A0B9-4E5F-96B5-25D7D251BBAC}|unitest\\unitest.csproj|c:\\users\\user\\desktop\\netcore\\unitest\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F6EB35-A0B9-4E5F-96B5-25D7D251BBAC}|unitest\\unitest.csproj|solutionrelative:unitest\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|c:\\users\\user\\desktop\\netcore\\netcore\\netcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|solutionrelative:netcore\\netcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D67447D-BC14-4F62-8C52-8089B70C7F0A}|IDataContext\\IDataContext.csproj|c:\\users\\user\\desktop\\netcore\\idatacontext\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D67447D-BC14-4F62-8C52-8089B70C7F0A}|IDataContext\\IDataContext.csproj|solutionrelative:idatacontext\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|c:\\users\\user\\desktop\\netcore\\netcore\\apointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D8F7B-C613-4FC0-A0C3-72920D9866BE}|netCore\\netCore.csproj|solutionrelative:netcore\\apointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\DataContext.cs",
+              "RelativeDocumentMoniker": "netCore\\DataContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\DataContext.cs",
+              "RelativeToolTip": "netCore\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:26:03.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Controllers\\ApointmentController.cs",
+              "RelativeDocumentMoniker": "netCore\\Controllers\\ApointmentController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Controllers\\ApointmentController.cs",
+              "RelativeToolTip": "netCore\\Controllers\\ApointmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:12:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TreatedController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Controllers\\TreatedController.cs",
+              "RelativeDocumentMoniker": "netCore\\Controllers\\TreatedController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Controllers\\TreatedController.cs",
+              "RelativeToolTip": "netCore\\Controllers\\TreatedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:08:36.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Program.cs",
+              "RelativeDocumentMoniker": "netCore\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Program.cs",
+              "RelativeToolTip": "netCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:41:42.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "netCore\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "netCore\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:03:58.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Doctor.cs",
+              "RelativeDocumentMoniker": "netCore\\Doctor.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Doctor.cs",
+              "RelativeToolTip": "netCore\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:06:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Treated.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Treated.cs",
+              "RelativeDocumentMoniker": "netCore\\Treated.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Treated.cs",
+              "RelativeToolTip": "netCore\\Treated.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:08:51.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\unitest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "unitest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\unitest\\UnitTest1.cs",
+              "RelativeToolTip": "unitest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:50:54.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "unitest.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\unitest\\unitest.csproj",
+              "RelativeDocumentMoniker": "unitest\\unitest.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\unitest\\unitest.csproj",
+              "RelativeToolTip": "unitest\\unitest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T03:55:23.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\unitest\\FakeContext.cs",
+              "RelativeDocumentMoniker": "unitest\\FakeContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\unitest\\FakeContext.cs",
+              "RelativeToolTip": "unitest\\FakeContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:02:34.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "netCore.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\netCore.csproj",
+              "RelativeDocumentMoniker": "netCore\\netCore.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\netCore.csproj",
+              "RelativeToolTip": "netCore\\netCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T04:23:32.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\IDataContext\\IDataContext.cs",
+              "RelativeDocumentMoniker": "IDataContext\\IDataContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\IDataContext\\IDataContext.cs",
+              "RelativeToolTip": "IDataContext\\IDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:17:22.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Apointment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Apointment.cs",
+              "RelativeDocumentMoniker": "netCore\\Apointment.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\netCore\\netCore\\Apointment.cs",
+              "RelativeToolTip": "netCore\\Apointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:11:07.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
